@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="planner" type="planner.py" name="planner4"  />
+	<node pkg="planner" type="controller.py" name="control4"  />
+
+</launch>

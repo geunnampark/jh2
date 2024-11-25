@@ -1,0 +1,2 @@
+platoon/kcity_planning:platoon/morai_msgs:platoon/path_pub:platoon/planner
+-DCATKIN_DEVEL_PREFIX=/home/gn/gn_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gn/gn_ws/install -G Unix Makefiles

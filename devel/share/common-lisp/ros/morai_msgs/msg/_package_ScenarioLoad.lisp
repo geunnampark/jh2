@@ -1,0 +1,10 @@
+(cl:in-package morai_msgs-msg)
+(cl:export '(FILE_NAME-VAL
+          FILE_NAME
+          LOAD_EGO_VEHICLE_DATA-VAL
+          LOAD_EGO_VEHICLE_DATA
+          LOAD_SURROUNDING_VEHICLE_DATA-VAL
+          LOAD_SURROUNDING_VEHICLE_DATA
+          LOAD_PEDESTRIAN_DATA-VAL
+          LOAD_PEDESTRIAN_DATA
+))

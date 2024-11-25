@@ -1,0 +1,8 @@
+prefix=/home/gn/gn_ws/devel
+
+Name: kcity_planning
+Description: Description of kcity_planning
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

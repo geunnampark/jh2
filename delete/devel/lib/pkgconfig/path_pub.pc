@@ -1,0 +1,8 @@
+prefix=/home/gn/gn_ws/devel
+
+Name: path_pub
+Description: Description of path_pub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lpath_pub
+Requires: roscpp std_msgs tf pcl_ros roslib

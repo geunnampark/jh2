@@ -1,0 +1,12 @@
+(cl:in-package cbnu_msgs-msg)
+(cl:export '(FILE_NAME-VAL
+          FILE_NAME
+          LOAD_EGO_VEHICLE_DATA-VAL
+          LOAD_EGO_VEHICLE_DATA
+          LOAD_SURROUNDING_VEHICLE_DATA-VAL
+          LOAD_SURROUNDING_VEHICLE_DATA
+          LOAD_PEDESTRIAN_DATA-VAL
+          LOAD_PEDESTRIAN_DATA
+          LOAD_OBJECT_DATA-VAL
+          LOAD_OBJECT_DATA
+))

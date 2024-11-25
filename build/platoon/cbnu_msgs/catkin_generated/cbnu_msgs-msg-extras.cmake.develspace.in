@@ -1,0 +1,2 @@
+set(cbnu_msgs_MESSAGE_FILES "/home/gn/gn_ws/src/platoon/cbnu_msgs/msg/AllObjectsData.msg;/home/gn/gn_ws/src/platoon/cbnu_msgs/msg/Gps.msg;/home/gn/gn_ws/src/platoon/cbnu_msgs/msg/AnObjectData.msg;/home/gn/gn_ws/src/platoon/cbnu_msgs/msg/VehicleCmd.msg;/home/gn/gn_ws/src/platoon/cbnu_msgs/msg/VehicleTlm.msg;/home/gn/gn_ws/src/platoon/cbnu_msgs/msg/MultiScenarioLoad.msg")
+set(cbnu_msgs_SERVICE_FILES "")

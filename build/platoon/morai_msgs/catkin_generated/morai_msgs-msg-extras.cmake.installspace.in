@@ -1,0 +1,2 @@
+set(morai_msgs_MESSAGE_FILES "msg/CtrlCmd.msg;msg/EgoVehiclePosition.msg;msg/EgoVehicleStatus.msg;msg/EgoVehicleVelocity.msg;msg/FactoryAddress.msg;msg/GPSMessage.msg;msg/GuideData.msg;msg/ObjectInfo.msg;msg/ScenarioLoad.msg;msg/SVehicleStatus.msg;msg/TrafficLight.msg;msg/VehicleCommand.msg;msg/VelPlot.msg;msg/ERP42Info.msg;msg/GetTrafficLightStatus.msg;msg/SetTrafficLight.msg;msg/MultiEgoSetting.msg;msg/VehicleStatus.msg")
+set(morai_msgs_SERVICE_FILES "")
